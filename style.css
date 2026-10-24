@@ -1,0 +1,27 @@
+p {
+    color: purple;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    height: 350px;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.box {
+  border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 5px;
+  margin: 20px;
+  width: 300px;
+  height: 100px;
+}
