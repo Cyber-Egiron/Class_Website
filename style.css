@@ -1,11 +1,7 @@
 p {
-    color: purple;
+    color: teal;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-img {
-    height: 350px;
 }
 
 body {
@@ -15,13 +11,45 @@ body {
 h1 {
     text-align: center;
     text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
 .box {
-  border: 5px solid rebeccapurple;
-  background-color: lightgray;
-  padding: 5px;
-  margin: 20px;
-  width: 300px;
-  height: 100px;
+    border: 2px solid teal;
+    background-color: lightgrey;
+    padding: 2px;
+    margin: 0 auto;
+    width: 300px;
+    height: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.photo {
+    display: block;
+    border: 2px solid teal;
+    padding: 10px;
+    margin: 0 auto;
+    height: 375px;
+    width: fit-content;
+    background-color: lightgrey;
+}
+
+.home_box {
+    border: 2px solid teal;
+    padding: 2px;
+    margin: 15px auto;
+    background-color: lightgrey;
+    display: block;
+    width: fit-content;
 }
